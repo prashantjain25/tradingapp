@@ -1,4 +1,4 @@
-# Trading Osttra Demo
+# Trading Demo
 
 Demo using
 - AWS (via terraform)
